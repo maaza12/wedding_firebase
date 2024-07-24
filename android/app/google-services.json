@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249044615071",
+    "project_id": "workherway-18d98",
+    "storage_bucket": "workherway-18d98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249044615071:android:050ac8705eb026c41bc7aa",
+        "android_client_info": {
+          "package_name": "com.example.laptopfyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpch0GYJwo-Z19umoBwaorgw1LGOgOQik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
